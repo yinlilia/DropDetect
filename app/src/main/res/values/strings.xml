@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">DropDetect</string>
+    <string name="ble_not_supported">不支持Ble</string>
+    <string name="disconnected">未连接</string>
+    <string name="x_accelerate">外置x:<xliff:g id="acce">%s</xliff:g></string>
+    <string name="y_accelerate">外置y:<xliff:g id="acce">%s</xliff:g></string>
+    <string name="z_accelerate">外置z:<xliff:g id="acce">%s</xliff:g></string>
+    <string name="connected">已连接</string>
+    <string name="is_scan">扫描蓝牙?</string>
+    <string name="status_now">当前状态</string>
+    <string name="still">静止</string>
+    <string name="drop">跌落</string>
+    <string name="move">行走</string>
+    <string name="out_data">外置数据</string>
+    <string name="in_data">内置数据</string>
+    <string name="x_in_accelerate">内置x:<xliff:g id="acce">%s</xliff:g></string>
+    <string name="y_in_accelerate">内置y:<xliff:g id="acce">%s</xliff:g></string>
+    <string name="z_in_accelerate">内置z:<xliff:g id="acce">%s</xliff:g></string>
+    <string name="out_acc">外置加速度传感器</string>
+    <string name="inner_acc">手机加速度传感器</string>
+
+</resources>
